@@ -1,0 +1,24 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.content-wrapper {
+  width: 80%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: tomato;
+  font-family: sans-serif;
+  text-shadow: 4px 3px black;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
+
